@@ -1,0 +1,31 @@
+.linha-topo-menu {
+	background: #cccccc;
+}
+
+.menu-superior {
+	margin: 0px;
+}
+
+.menu-superior li {
+	display: inline;
+}
+
+.mini-ficha span {
+	display: block;
+}
+.mini-ficha .nome-produto {
+    font-weight:bold;
+    color:blue;
+    font-size:16px;
+}
+.mini-ficha .valor-produto {
+    font-weight:bold;
+    color:green;
+    font-size:18px;
+}
+
+/*set a border on the images to prevent shifting*/
+ #foto-principal img{border:2px solid white;}
+ 
+ /*Change the colour*/
+ #foto-principal .active img{border:2px solid #333 !important;}

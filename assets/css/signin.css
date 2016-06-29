@@ -1,0 +1,77 @@
+body, html {
+	height: 100%;
+	background-repeat: no-repeat;
+	background-image: linear-gradient(rgb(104, 145, 162), rgb(30, 136, 229));
+}
+
+.card-container.card {
+	max-width: 320px;
+	padding: 30px 30px;
+	margin: auto;
+	margin-top: 20px;
+	-webkit-box-shadow: -9px 11px 39px 0px rgba(0, 0, 0, 0.75);
+	-moz-box-shadow: -9px 11px 39px 0px rgba(0, 0, 0, 0.75);
+	box-shadow: -9px 11px 39px 0px rgba(0, 0, 0, 0.75);
+	border-radius: 4px 4px 4px 4px;
+	-moz-border-radius: 4px 4px 4px 4px;
+	-webkit-border-radius: 4px 4px 4px 4px;
+}
+
+@media screen and (min-width: 0px) and (max-width: 400px) {
+	img {
+		max-width: 200px;
+		max-height: 150px;
+		margin-left: -20px;
+		margin-right: 20px;
+	}
+}
+
+@media screen and (min-width: 401px) and (max-width: 1024px) {
+	img {
+		max-width: 250px;
+		max-height: 150px;
+		margin: auto;
+	}
+}
+
+@media screen and (min-width: 1024px) and (max-width: 4000px) {
+	img {
+		max-width: 250px;
+		max-height: 150px;
+		margin: auto;
+	}
+}
+
+.center {
+	position: relative;
+	width: 100%;
+}
+
+div.alinha-centro{
+	margin: 0 auto;
+  	width: 50%;
+}
+
+.chip.chip-error {
+	display: inline-block;
+	height: 32px;
+	font-size: 13px;
+	font-weight: 500;
+	color: rgba(0, 0, 0, 0.6);
+	line-height: 32px;
+	padding: 0 12px;
+	border-radius: 16px;
+	background-color: #FA8072
+}
+
+.chip{
+	display: inline-block;
+	height: 32px;
+	font-size: 13px;
+	font-weight: 500;
+	color: rgba(0, 0, 0, 0.6);
+	line-height: 32px;
+	padding: 0 12px;
+	border-radius: 16px;
+	background-color: #E4E4E4
+}
