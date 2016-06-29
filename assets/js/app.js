@@ -19,7 +19,7 @@ myApp.config(function($routeProvider){
 myApp.controller('mainController', ['$scope', '$location', '$log', function ($scope, $location, $log){
    
     
-	$scope.nome = 'Cristian';
+	$scope.nome = 'Colega';
 
 }]);
 myApp.controller('secondController', ['$scope', '$location', '$log','$http', function ($scope, $location, $log, $http){
