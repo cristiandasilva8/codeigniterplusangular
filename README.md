@@ -2,7 +2,7 @@
 
 Neste projeto você irá encontrar uma forma de trabalhar com Angular, Codeigniter e Mysql. Encontrei varias formas de fazer este método, mas mostrarei a forma mais simples do funcionamento destas três ferramentas trabalhando juntas.
 
-# Funcionamento
+# Para o funcionamento
 
 Para o seu funcionamento pode ser utilizado o Wamp Server ou o Xampp como servidor. 
 
