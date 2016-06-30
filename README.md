@@ -1,9 +1,11 @@
-# CodeIgniter 2
-Open Source PHP Framework (originally from EllisLab)
+# CodeIgniter + AngularJS + Mysql
 
-For more info, please refer to the user-guide at http://www.codeigniter.com/userguide2/  
-(also available within the download package for offline use)
+Neste projeto você irá encontrar uma forma de trabalhar com Angular, Codeigniter e Mysql. Encontrei varias formas de fazer este método, mas mostrarei a forma mais simples do funcionamento destas três ferramentas trabalhando juntas.
 
-**WARNING:** *CodeIgniter 2.x is no longer under development and only receives security patches until October 31st, 2015.
-Please update your installation to the latest CodeIgniter 3.x version available
-(upgrade instructions [here](http://www.codeigniter.com/userguide3/installation/upgrade_300.html)).*
+Para o seu funcionamento pode ser utilizado o Wamp Server ou o Xampp como servidor. 
+
+Se caso estiver utilizando o Wamp, a pasta deveré ser colocada no diretorio ..\wamp\www caso contrário estiver utilizando o Xampp deverá estar dentro da pasta ..\xampp\htdocs.
+
+Para saber o que foi feito acesse o link http://www.ideiasprogramadas.com.br/codeigniter-angular-mysql/ que nesse post é explicado todo o processo do desenvolvimento.
+
+
